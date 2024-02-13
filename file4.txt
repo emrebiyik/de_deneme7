@@ -1,1 +1,3 @@
 vscode ile yazildi.
+
+Dev2 de degisiklik 1.
